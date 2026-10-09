@@ -1,0 +1,1 @@
+This code is intended for editing by me and for viewing by the professor to grade its contents. The risk level of this data is low because it doesn't contain any sensitive information, only class assignments. In order to secure this repo I have imported the given ruleset in order to prevent deletions, force pushes, and commits to main without pull requests.
