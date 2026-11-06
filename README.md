@@ -16,3 +16,6 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+# Ethics Statement
+Reading Chapter 5 of Ethical Machines made me realize that most AI ethics statements fail because they are too vague to actually guide how software gets built. Listing broad concepts like fairness or transparency does not really help developers make day-to-day decisions when writing code or working with data. My view on ethics in software engineering is pretty practical: rather than focusing on abstract values, it is much more useful to look at the specific risks of a project, where the training data comes from, and how the end product might negatively impact users. Moving forward, I think ethical considerations should just be defined as clear, testable rules alongside standard technical requirements so teams know exactly what boundaries they need to follow before deploying a system.
